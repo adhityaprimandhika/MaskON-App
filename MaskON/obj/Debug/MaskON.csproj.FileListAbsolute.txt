@@ -1,0 +1,112 @@
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\bin\Debug\MaskON.exe.config
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\bin\Debug\MaskON.exe
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\bin\Debug\MaskON.pdb
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\obj\Debug\MaskON.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\obj\Debug\MaskON.Login.resources
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\obj\Debug\MaskON.boxRegister.resources
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\obj\Debug\MaskON.Properties.Resources.resources
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\obj\Debug\MaskON.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\obj\Debug\MaskON.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\obj\Debug\MaskON.exe
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\obj\Debug\MaskON.pdb
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\obj\Debug\MaskON.Tipe.resources
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\obj\Debug\MaskON.DonateMask.resources
+\\Mac\Home\Desktop\GitHub\MaskON\MaskON\obj\Debug\MaskON.RecieveMask.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.DonateMask.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.Login.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.ReceiveMask.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.Register.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.Properties.Resources.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.Start.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.Tipe.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.exe
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\bin\Debug\MaskON.exe.config
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\bin\Debug\MaskON.exe
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\bin\Debug\MaskON.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\bin\Debug\EntityFramework.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\bin\Debug\EntityFramework.xml
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.csproj.CopyComplete
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\bin\Debug\MaskOn_Database.mdf
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\bin\Debug\MaskOn_Database_log.ldf
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.EndingDonate.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\MaskON\obj\Debug\MaskON.EndingReceive.resources
+D:\MaskON-master\bin\Debug\MaskOn_Database.mdf
+D:\MaskON-master\bin\Debug\MaskOn_Database_log.ldf
+D:\MaskON-master\bin\Debug\MaskON.exe.config
+D:\MaskON-master\bin\Debug\MaskON.exe
+D:\MaskON-master\bin\Debug\MaskON.pdb
+D:\MaskON-master\bin\Debug\EntityFramework.dll
+D:\MaskON-master\bin\Debug\EntityFramework.SqlServer.dll
+D:\MaskON-master\bin\Debug\EntityFramework.xml
+D:\MaskON-master\bin\Debug\EntityFramework.SqlServer.xml
+D:\MaskON-master\obj\Debug\MaskON.csprojAssemblyReference.cache
+D:\MaskON-master\obj\Debug\MaskON.DonateMask.resources
+D:\MaskON-master\obj\Debug\MaskON.EndingDonate.resources
+D:\MaskON-master\obj\Debug\MaskON.EndingReceive.resources
+D:\MaskON-master\obj\Debug\MaskON.Login.resources
+D:\MaskON-master\obj\Debug\MaskON.ReceiveMask.resources
+D:\MaskON-master\obj\Debug\MaskON.Register.resources
+D:\MaskON-master\obj\Debug\MaskON.Properties.Resources.resources
+D:\MaskON-master\obj\Debug\MaskON.Start.resources
+D:\MaskON-master\obj\Debug\MaskON.Tipe.resources
+D:\MaskON-master\obj\Debug\MaskON.csproj.GenerateResource.cache
+D:\MaskON-master\obj\Debug\MaskON.csproj.CopyComplete
+D:\MaskON-master\obj\Debug\MaskON.exe
+D:\MaskON-master\obj\Debug\MaskON.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\bin\Debug\MaskOn_Database.mdf
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\bin\Debug\MaskOn_Database_log.ldf
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\bin\Debug\MaskON.exe.config
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\bin\Debug\MaskON.exe
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\bin\Debug\MaskON.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\bin\Debug\EntityFramework.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\bin\Debug\EntityFramework.xml
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.DonateMask.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.EndingDonate.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.EndingReceive.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.Login.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.ReceiveMask.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.Register.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.Properties.Resources.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.Start.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.Tipe.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.csproj.CopyComplete
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.exe
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON-master\obj\Debug\MaskON.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\MaskOn_Database.mdf
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\MaskOn_Database_log.ldf
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\MaskON.exe.config
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\MaskON.exe
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\MaskON.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\EntityFramework.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\EntityFramework.xml
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.DonateMask.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.EndingDonate.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.EndingReceive.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.Login.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.ReceiveMask.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.Register.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.Properties.Resources.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.Start.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.Tipe.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.csproj.CopyComplete
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.exe
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\obj\Debug\MaskON.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\MaskON_DB_Library.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\MaskON_DB_Library.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\PBO\Tugas Akhir\Final\MaskON\bin\Debug\MaskON_DB_Library.dll.config

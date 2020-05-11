@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskON", "MaskON.csproj", "{340497ED-3394-4211-8178-D8AB9085229D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskON_DB_Library", "..\MaskON_DB_Library\MaskON_DB_Library.csproj", "{6446A600-E95B-41CC-8EA3-409E6A928F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340497ED-3394-4211-8178-D8AB9085229D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340497ED-3394-4211-8178-D8AB9085229D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340497ED-3394-4211-8178-D8AB9085229D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340497ED-3394-4211-8178-D8AB9085229D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6446A600-E95B-41CC-8EA3-409E6A928F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6446A600-E95B-41CC-8EA3-409E6A928F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6446A600-E95B-41CC-8EA3-409E6A928F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6446A600-E95B-41CC-8EA3-409E6A928F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {244781CF-8F22-4273-8239-D7ECF5EC240C}
+	EndGlobalSection
+EndGlobal
