@@ -5,7 +5,7 @@ Aplikasi penghubung pendonasi masker dengan yang membutuhkan masker
 <h5>https://github.com/Cakindan</h5>
 <h5>https://github.com/KahfiA</h5>
 
-<h2>MaskOn</h2>
+<h2>MaskON</h2>
 <p>Folder MaskON berisi aplikasi dari MaskON itu sendiri. Di dalamnya terdapat form, database, resources gambar, dan dependancies dari
 aplikasi MaskON</p>
 
